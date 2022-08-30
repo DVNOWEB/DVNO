@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and design
 - 🌱 I’m currently learning frontend development
 - 💞️
-- 📫 How to reach me? Simple, send email on dvno@live.com
+- 📫 How to reach me? Simple, send email on ask@idvno.com
 
 <!---
 Dvno78/Dvno78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
